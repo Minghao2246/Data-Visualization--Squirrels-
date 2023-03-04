@@ -14,4 +14,4 @@ _________________________________________________
 Data: https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0
 
 
-Note: #This is licensed [#LICENSE].
+Note: #This is licensed [#LICENSE] and it is part of the UBC DSCI 320 course.
