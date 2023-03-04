@@ -12,4 +12,6 @@ Visualizations that answers the following questions:
 
 _________________________________________________
 Data: https://www.dropbox.com/s/b97hxtsthbidl34/squirrel-data.csv?dl=0
-#This projects is licensed [#LICENSE].
+
+
+Note: #This is licensed [#LICENSE].
